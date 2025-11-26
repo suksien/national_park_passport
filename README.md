@@ -1,4 +1,4 @@
-# A National Park tracker that keeps track of your visitation and displays basic park information.
+# A National Park application that keeps track of your visitation and displays basic park information.
 
 The application is built using Ruby 3.2.2 and uses PostgreSQL (16.3) as the backend RDBMS. It uses Bundler (v2.5.7) for dependency management. It has been tested on Chrome (version 129.0.6668.58) and Safari (version 17.6) on a laptop (Mac OS).
 
